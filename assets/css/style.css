@@ -1,0 +1,13 @@
+body {
+    font-family: 'Raleway', sans-serif;
+    color:#ffffff;
+}
+
+.bg-black{
+    background-color: #000000;
+}
+
+.card img{
+
+max-height:150px;
+}
