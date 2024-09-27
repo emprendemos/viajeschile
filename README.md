@@ -1,7 +1,7 @@
 # Título del Proyecto
 
 _Viajes Chile_
-https://ephzilon.github.io/viajeschile/
+https://emprendemos.github.io/viajeschile/
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
